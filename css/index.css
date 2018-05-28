@@ -1,0 +1,318 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+ul,ol,li{
+	list-style-type: none;
+}
+a{
+	text-decoration: none;
+	color: #000;
+
+}
+
+/*header开始*/
+.header{
+	height: 173px;
+	background-color: #eeeeef;
+	text-align: center;
+
+}
+.logo{
+	height: 125px;
+}
+.logo img{
+	margin-top: 30px;
+}
+.nav{
+	height: 45px;
+	width: 670px;
+	margin: 0 auto;
+	background-color: #fff;
+	border-radius: 23px;
+}
+.nav li{
+	float: left;
+	padding: 0 30px;
+	line-height: 45px;
+	background: url(../images/222.png) no-repeat right center;
+}
+.nav a{
+	display: block;
+	color: #000;
+	font-size: 14px;
+	font-style: "微软雅黑";
+	height: 42px;
+}
+
+a.fir{
+	height: 42px;
+	color: #1e50ae;
+	font-size: 14px;
+	font-style: "微软雅黑";
+	border-bottom: 3px solid #1e50ae;
+}
+.nav li:last-child{
+	background: none;
+}
+
+
+/*banner开始*/
+.banner{
+	height: 405px;
+	width: 100%;
+	background: url(../images/banner.jpg) no-repeat center center;
+}
+/*banner结束*/
+
+/*service开始*/
+.service{
+	height: 810px;
+	width: 1240px;
+	margin: 0 auto;
+}
+.cen{
+	height: 190px;
+	width: 100%;
+}
+
+.service li{
+	float: left;
+	width: 310px;
+	color: #c8c8c8;
+}
+.service p{
+	color: #333333;
+	text-align: center;
+}
+ .p1{
+ 	padding-top: 56px;
+	font-size: 34px;
+	font-style: "微软雅黑";
+	text-align: center;
+}
+ .p2{
+	font-size: 25px;
+	font-style: "微软雅黑";
+	text-align: center;
+}
+ul.gn1{
+	padding-left: 110px;
+}
+li.q1{
+	height: 370px;
+}
+li.q2{
+	height: 240px;
+}
+.gn1 li{
+	background: url(../images/point.png) no-repeat left center;
+}
+/*service结束*/
+
+/*fangan开始*/
+.fangan{
+	height: 715px;
+	width: %100;
+	background: url(../images/fangan.jpg) no-repeat center center;
+}
+.fangan p{
+	color: #333333;
+	text-align: center;
+}
+.ssss{
+	margin-top: 80px;
+	padding-left: 126px;
+}
+.im{
+	float: left;
+	width: 300px;
+	height: 245px;
+}
+.im img{
+	padding-left: 80px;
+}
+.im p{
+	font-size: 16px;
+	text-align: center;
+}
+.im1{
+	float: left;
+	width: 300px;
+	height: 245px;
+	padding-left: 244px;
+}
+.im1 img{
+	padding-left: 80px;
+}
+.im1 p{
+	font-size: 16px;
+	text-align: center;
+}
+.zhu1{
+	width: 140px;
+	height: 40px;
+	border-radius: 20px;
+
+	margin-top:140px;
+
+	margin-left: 950px;
+
+	border-color: blue;
+	float: left;
+	border: solid;
+}
+.zhu2{
+	width: 140px;
+	height: 40px;
+	border-radius: 20px;
+	border-color: white;
+	float: left;
+	border: solid;
+}
+
+
+
+
+
+
+/*zixun开始*/
+.p3{
+	font-size: 22px;
+	font-style: "微软雅黑";
+	text-align:left;
+}
+
+.p4{
+	font-size: 18px;
+	font-style: "微软雅黑";
+	text-align:left;
+}
+
+
+.zixun{
+	width: 1081px;
+	height: 878px;
+	margin: 0 auto;
+	padding-top: 30px;
+	font-size: 14px;
+	font-style: "微软雅黑";
+	color: #969696;
+}
+
+.zxk{
+	float: left;
+	width: 1081px;
+	height: 709px;
+}
+.hhhh{
+	width: 521px;
+	height: 335px;
+	padding-right: 5px;
+	padding-top: 82px;
+	float: left;
+}
+.hhhh img{
+	padding: 0px 0px 0px 0px;
+}
+.hhhh1{
+	font-size:14px; 
+	color:#cccccc; 
+	padding-bottom:34px;
+}
+.hhhh1{
+	text-align:left;
+}
+
+.aaaa td{
+	width: 504px;
+	height: 37px;
+	border-bottom: 1px dashed;
+	font-size: 14px;
+	color: #848484;
+}
+.aaaa tr:last-child{
+	border-bottom: 0px;
+}
+
+.cccc{
+	height: 110px;
+	background-color: #f5f5f5;
+}
+.cccc ul{
+	padding-left: 150px;
+	margin: 0 auto;
+	text-align: center;
+	display: block;
+}
+.cccc li{
+	display: inline;
+	float: left;
+}
+.cccc ul li img{
+	float: left;
+    margin: 28px;
+}
+.c1{
+	float:left; 
+	text-align:left;  
+	width:153px; 
+	height:59px;
+	margin-top:30px;
+}
+.heihei{
+	height: 385px;
+	background: #323232;
+}
+.heihei1{
+	height: 260px;
+}
+.heiehi1 ul{
+	display: inline;
+	float: left;
+	padding-left: 100px;
+	padding-top: 30px;
+}
+.heihei1 ul li{
+	font-size:13px ;
+	color: #f1f1f1;
+	padding-left: 100px;  
+	padding-top: 35px;
+
+}
+.ddd{
+	float: left;
+}
+.ddd img{
+	padding-top: 51px;
+	padding-left: 80px;
+}
+.ggg{
+	width:31px; 
+	height:137px; 
+	float:left; 
+	padding-top:60px; 
+	padding-left:36px; 
+	padding-right:40px;
+}
+.s5{
+	width:1556px ;
+	height: 125px;
+	text-align: center;
+	margin-top: 45px;
+	margin-bottom: 45px;
+	margin-left: 207px;
+}
+.c3{
+	border-right:2px solid;
+}
+.c4{
+	padding-left:400px; 
+	padding-top:40px;
+	color:#ffffff;
+}
+.c5{
+	text-align:center; 
+	color:#ffffff;
+}
+
